@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a **2nd-year Information Technology student**. I like to code, learn new technologies, and build cool projects.  
+I'm a **2nd-year Information Technology student**. I like to code, learn new technologies, and build projects.  
 
 ## About me 
 - 🔭 I’m currently working on *School Projects*
