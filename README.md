@@ -3,7 +3,7 @@
 I'm a **2nd-year Information Technology student**. I like to code, learn new technologies, and build projects.  
 
 ## About me 
-- 🔭 I’m currently working on *School Projects*
+- 🔭 I’m currently working on *School Project - Mobile App*
 - 🌱 I’m currently learning **Javascript** 
 - 🎯 Aspiring **Fullstack Developer**
 
