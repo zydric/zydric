@@ -1,11 +1,14 @@
 ## Hey there! 👋
 
-I'm a **2nd-year Information Technology student**. I like to code, learn new technologies, and build projects.  
+I'm a **3rd-year Information Technology student**. I like to code, learn new technologies, and build projects.  
 
 ## About me 
-- 🔭 I’m currently working on *School Project - Mobile App*
-- 🌱 I’m currently learning **Javascript** 
+- 🔭 I’m currently working on *Frontend Projects*
+- 🌱 I’m currently learning **React** 
+
+<!--
 - 🎯 Aspiring **Fullstack Developer**
+-->
 
 ## Skills I'm learning
 <div align="left">
