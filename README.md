@@ -3,8 +3,8 @@
 I'm a **3rd-year Information Technology student**. I like to code, learn new technologies, and build projects.  
 
 ## About me 
-- 🔭 I’m currently working on *Frontend Projects*
-- 🌱 I’m currently learning **React** 
+- 🔭 I’m currently working on *Mini Projects* 
+- 🌱 I’m currently learning **Javascript** 
 
 <!--
 - 🎯 Aspiring **Fullstack Developer**
