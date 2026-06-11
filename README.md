@@ -86,5 +86,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ from Cebu &nbsp;·&nbsp; <a href="mailto:zydricabel@gmail.com">Let's connect</a></sub>
+  <a href="mailto:zydricabel@gmail.com">Let's connect</a></sub>
 </div>
