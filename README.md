@@ -2,10 +2,6 @@
 
 # Zydric Abel
 
-**BSIT @ CIT-U &nbsp;·&nbsp; Open to Internships**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=440&lines=Frontend+enthusiast%2C+backend+capable;React+%7C+Spring+Boot+%7C+TypeScript;Seeking+internship+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zydricabel)
