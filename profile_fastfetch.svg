@@ -54,7 +54,7 @@ text, tspan {white-space: pre;}
 
 <!-- ================= INFO BLOCK (right column) ================= -->
 <text x="450" y="30" fill="#cdd6f4">
-<tspan x="450" y="30">zydric@abel</tspan> -————————————————————————————————————————————-—-
+<tspan x="450" y="30">~ zydric@abel</tspan> -————————————————————————————————————————————-
 <tspan x="450" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Arch Linux (btw)</tspan>
 <tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years, 9 months, 10 days</tspan>
 <tspan x="450" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Cebu Institute of Technology - University</tspan>
@@ -67,13 +67,13 @@ text, tspan {white-space: pre;}
 <tspan x="450" y="230" class="cc">. </tspan>
 <tspan x="450" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Music</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Bassist in Nocifera &amp; Rhythm Lab</tspan>
 <tspan x="450" y="270" class="cc">. </tspan>
-<tspan x="450" y="290">- Currently</tspan> -————————————————————————————————————————————-—-
+<tspan x="450" y="290">+ Currently</tspan> -——————————————————————————————————————————————-
 <tspan x="450" y="310" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Ariadne - VSCode security analyzer (Capstone)</tspan>
 <tspan x="450" y="330" class="cc">. </tspan>
-<tspan x="450" y="350">- Achievements</tspan> -—————————————————————————————————————————-—-
+<tspan x="450" y="350">+ Achievements</tspan> -———————————————————————————————————————————-
 <tspan x="450" y="370" class="cc">. </tspan><tspan class="key">Certification</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">FE Certified (ITPEC PhilNITS)</tspan>
 <tspan x="450" y="390" class="cc">. </tspan>
-<tspan x="450" y="410">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="450" y="410">+ Contact</tspan> -————————————————————————————————————————————————-
 <tspan x="450" y="430" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">zydricabel@gmail.com</tspan>
 <tspan x="450" y="450" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Institution</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">zydric.abel@cit.edu</tspan>
 <tspan x="450" y="470" class="cc">. </tspan><tspan class="key">Linkedin</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">zydricabel</tspan>
