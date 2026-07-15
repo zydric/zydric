@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1050px" height="500px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1050px" height="500px" fill="#161b22" rx="15"/>
+
+<!-- ================= ASCII ART (left column) ================= -->
+<!-- Replace these tspans with your own ascii art, one line per tspan, keep x="15" and 20px y-steps -->
+<text x="15" y="15" fill="#c9d1d9" class="ascii" font-size="14px" xml:space="preserve">
+<tspan x="15" y="15">                                                           </tspan>
+<tspan x="15" y="30">                                                           </tspan>
+<tspan x="15" y="45">                       ==+=+++++                           </tspan>
+<tspan x="15" y="60">                   ---::-..:::--:=+                        </tspan>
+<tspan x="15" y="75">                 -:....::...-::-:::-=                      </tspan>
+<tspan x="15" y="90">                =::..........::::::::-=                    </tspan>
+<tspan x="15" y="105">                ::...............::::::                    </tspan>
+<tspan x="15" y="120">               :...................::::-                   </tspan>
+<tspan x="15" y="135">             ::-......................:-==*                </tspan>
+<tspan x="15" y="150">             ......................:::::::--==+            </tspan>
+<tspan x="15" y="165">              .:... .+=.       ....::::::::::::.           </tspan>
+<tspan x="15" y="180">               ..   ====.   ..----:::.:::::-               </tspan>
+<tspan x="15" y="195">               .    ==:+=-:.-====-:.:=.*                   </tspan>
+<tspan x="15" y="210">                    :=-===-:==++===-===                    </tspan>
+<tspan x="15" y="225">                ...:---:----=======-+++                    </tspan>
+<tspan x="15" y="240">           -.: :::---------==========-                     </tspan>
+<tspan x="15" y="255">          =:-.++-----==-::--======-:                       </tspan>
+<tspan x="15" y="270">         :::-:+=+.--===--:::--===---                       </tspan>
+<tspan x="15" y="285">        ::.:...=-.+=====----  :-==                         </tspan>
+<tspan x="15" y="300">      -::.:.......++=====-:                                </tspan>
+<tspan x="15" y="315">    -:::..........-.+===--:                                </tspan>
+<tspan x="15" y="330">   :...:::::::......:.=--:::                               </tspan>
+<tspan x="15" y="345">  :...........:......*:.-=...                              </tspan>
+<tspan x="15" y="360"> ................... .:..=:..:                             </tspan>
+<tspan x="15" y="375"> .................... .-.::...                             </tspan>
+<tspan x="15" y="390">.......................:::*...                             </tspan>
+<tspan x="15" y="405">........................:... ..                            </tspan>
+<tspan x="15" y="420">.........................=.*...                            </tspan>
+<tspan x="15" y="435">..  .  ... ........ ..:.::.:...:                           </tspan>
+<tspan x="15" y="450">          ........ ......::.*...                           </tspan>
+<tspan x="15" y="465">           ........  ......=*. ..                          </tspan>
+<tspan x="15" y="480">           .................:+ ......:---                  </tspan>
+</text>
+
+<!-- ================= INFO BLOCK (right column) ================= -->
+<text x="450" y="30" fill="#c9d1d9">
+<tspan x="450" y="30">zydric@abel</tspan> -————————————————————————————————————————————-—-
+<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Arch Linux (btw)</tspan>
+<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years, 9 months, 10 days</tspan>
+<tspan x="450" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Cebu Institute of Technology - University</tspan>
+<tspan x="450" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">4th-year BSIT Student</tspan>
+<tspan x="450" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">LazyVim, VSCode 1.128, Antigravity 2.2.1</tspan>
+<tspan x="450" y="150" class="cc">. </tspan>
+<tspan x="450" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">JavaScript, TypeScript, Java</tspan>
+<tspan x="450" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">React, Next.js, Spring Boot</tspan>
+<tspan x="450" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English, Filipino, Bisaya</tspan>
+<tspan x="450" y="230" class="cc">. </tspan>
+<tspan x="450" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Music</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Bassist in Nocifera &amp; Rhythm Lab</tspan>
+<tspan x="450" y="270" class="cc">. </tspan>
+<tspan x="450" y="290">- Currently</tspan> -————————————————————————————————————————————-—-
+<tspan x="450" y="310" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Ariadne - VSCode security analyzer (Capstone)</tspan>
+<tspan x="450" y="330" class="cc">. </tspan>
+<tspan x="450" y="350">- Achievements</tspan> -—————————————————————————————————————————-—-
+<tspan x="450" y="370" class="cc">. </tspan><tspan class="key">Certification</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">FE Certified (ITPEC PhilNITS)</tspan>
+<tspan x="450" y="390" class="cc">. </tspan>
+<tspan x="450" y="410">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="450" y="430" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">zydricabel@gmail.com</tspan>
+<tspan x="450" y="450" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Institution</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">zydric.abel@cit.edu</tspan>
+<tspan x="450" y="470" class="cc">. </tspan><tspan class="key">Linkedin</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">zydricabel</tspan>
+</text>
+</svg>
